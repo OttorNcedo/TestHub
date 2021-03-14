@@ -1,5 +1,9 @@
 package za.ac.cput.TestHub;
 
+/**
+ * Author: Phindiwe Bambata
+ *
+ */
 public class Hub {
     /**
      * Returns a result of integer division
